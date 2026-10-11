@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Keepseek</string>
+    <string name="app_full_name">Keepseek Android</string>
+    <string name="tab_saved">Kayıtlılar</string>
+    <string name="tab_generator">Üreteç</string>
+    <string name="tab_settings">Ayarlar</string>
+    <string name="btn_lock_vault">Kasayı Kilitle</string>
+    <string name="btn_unlock_vault">Kasa Kilidini Aç</string>
+    <string name="btn_copy">Kopyala</string>
+    <string name="btn_edit">Düzenle</string>
+    <string name="btn_delete">Sil</string>
+    <string name="btn_save">Kaydet</string>
+    <string name="btn_cancel">İptal</string>
+    <string name="btn_show_password">Şifreyi Göster</string>
+    <string name="btn_hide_password">Şifreyi Gizle</string>
+</resources>

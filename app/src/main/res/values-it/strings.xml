@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Keepseek</string>
+    <string name="app_full_name">Keepseek Android</string>
+    <string name="tab_saved">Salvati</string>
+    <string name="tab_generator">Generatore</string>
+    <string name="tab_settings">Impostazioni</string>
+    <string name="btn_lock_vault">Blocca cassaforte</string>
+    <string name="btn_unlock_vault">Sblocca cassaforte</string>
+    <string name="btn_copy">Copia</string>
+    <string name="btn_edit">Modifica</string>
+    <string name="btn_delete">Elimina</string>
+    <string name="btn_save">Salva</string>
+    <string name="btn_cancel">Annulla</string>
+    <string name="btn_show_password">Mostra password</string>
+    <string name="btn_hide_password">Nascondi password</string>
+</resources>

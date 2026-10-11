@@ -1,0 +1,6 @@
+{
+  "name": "Keepseek Android",
+  "description": "Secure, touch-friendly password manager with customizable encryption, 128-char generator, and multi-language support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

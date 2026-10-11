@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Keepseek</string>
+    <string name="app_full_name">Keepseek Android</string>
+    <string name="tab_saved">Gespeichert</string>
+    <string name="tab_generator">Generator</string>
+    <string name="tab_settings">Einstellungen</string>
+    <string name="btn_lock_vault">Tresor sperren</string>
+    <string name="btn_unlock_vault">Tresor entsperren</string>
+    <string name="btn_copy">Kopieren</string>
+    <string name="btn_edit">Bearbeiten</string>
+    <string name="btn_delete">Löschen</string>
+    <string name="btn_save">Speichern</string>
+    <string name="btn_cancel">Abbrechen</string>
+    <string name="btn_show_password">Passwort anzeigen</string>
+    <string name="btn_hide_password">Passwort verbergen</string>
+</resources>
